@@ -6891,10 +6891,6 @@ static-hero-s4
   }
 }
 
-/* 6.6 wpo-cta-section-s3 */
-.wpo-cta-section-s3 {
-  background: url(../images/wedding/GAP05340-5.jpg) no-repeat top center;
-}
 .wpo-cta-section-s3 .wpo-cta-item h2 {
   margin-bottom: 10px;
   margin-top: 0;
@@ -14997,6 +14993,13 @@ static-hero-s4
   #mobile{
     display: block !important;
   }
+  
+  /* 6.6 wpo-cta-section-s3 */
+  .wpo-cta-section-s3 {
+    background: url(../images/wedding/GAP05340.jpg) no-repeat top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 }
 
 
@@ -15007,6 +15010,11 @@ static-hero-s4
   
   #mobile{
     display:none  !important;
+  }
+  
+  /* 6.6 wpo-cta-section-s3 */
+  .wpo-cta-section-s3 {
+    background: url(../images/wedding/GAP05340-5.jpg) no-repeat top center;
   }
 }
 
