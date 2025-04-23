@@ -6817,7 +6817,7 @@ static-hero-s4
 }
 .wpo-portfolio-section-s2 .portfolio-grids .grid img,
 .wpo-portfolio-section-s4 .portfolio-grids .grid img {
-  max-height: 460px;
+  max-height: 244px;
 }
 .wpo-portfolio-section-s2 .portfolio-grids .grid:first-child,
 .wpo-portfolio-section-s4 .portfolio-grids .grid:first-child {
@@ -15009,7 +15009,7 @@ static-hero-s4
   }
   
   #mobile{
-    display:none  !important;
+    display: none  !important;
   }
   
   /* 6.6 wpo-cta-section-s3 */
